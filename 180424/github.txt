@@ -1,0 +1,8 @@
+github
+
+1. add(git add .)
+
+2. commit(git commit -m 'add title') 
+
+3. push(git push)
+

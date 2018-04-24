@@ -1,0 +1,18 @@
+Bootstrap 3 grid system 
+
+소개
+Bootstrap 3 grid system은 브라우져 크기에 따라 한 줄에 최대 12 컬럼의 컨텐츠를 어떻게 배치할 것인가를 정해주고, 기본 구조는 다음과 같다.
+
+.container
+  .row
+    .col-xs-#
+    .col-xs-#
+  .row
+    .col-xs-#
+    .col-xs-#
+
+Column class	Desc. 총 12영역 container
+.col-xs-#	Extra Small(핸드폰, 768px 이하) <768
+.col-sm-#	Small(태블릿, 768px 이상) >=768
+.col-md-#	Medium(데스크탑, 992px 이상) >=992
+.col-lg-#	Large(데스크탑, 1200px 이상) >=1200
